@@ -1,0 +1,7 @@
+/target/
+.project
+.classpath
+.gitignore
+.tern-project
+/bin
+.settings
